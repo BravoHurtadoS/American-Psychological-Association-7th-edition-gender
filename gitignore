@@ -1,0 +1,34 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors/IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+.~lock.*
+
+# Build/Dist (if any)
+dist/
+build/
+target/
+out/
+
+# Python (if scripts are added)
+.venv/
+venv/
+__pycache__/
+
+# Node (if docs site or tooling)
+node_modules/
+
+# macOS metadata
+.AppleDouble
+.LSOverride
